@@ -14,6 +14,9 @@ import android.view.View;
  */
  ufuufhu
  iuidujm
+ uhjhjgtrv
+ 
+ oijjfh
  
 public class DividerItemDecoration extends RecyclerView.ItemDecoration {
     private int dividerColor;
