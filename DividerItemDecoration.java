@@ -12,6 +12,9 @@ import android.view.View;
  * 此为RecyclerView的分割线
  * Created by xmuSistone
  */
+ ufuufhu
+ iuidujm
+ 
 public class DividerItemDecoration extends RecyclerView.ItemDecoration {
     private int dividerColor;
     private int dividerHeight; // 分割线的高度
